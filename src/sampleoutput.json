@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": "Matthew Sullivan",
+            "title": "AFL legend heartbroken by Zonfrillo’s death",
+            "description": "<p>AFL legend Nick Riewoldt has delivered a touching tribute to MasterChef judge Jock Zonfrillo after the <a href=\"https://www.news.com.au/entertainment/tv/reality-tv/masterchef-judge-jock-zonfrillo-dead-at-46/news-story/e432473f20bbbf0b8584cd18b61b6c80\" targ…",
+            "url": "https://www.news.com.au/sport/afl/a-beautiful-man-afl-legend-nick-riewoldts-touching-tribute-to-jock-zonfrillo/news-story/c744790b73deb54012cb84ed6c28df8d",
+            "urlToImage": "https://content.api.news/v3/images/bin/a0c7caa7d85ea808f264dc6dd979c0a8",
+            "publishedAt": "2023-05-02T11:04:00Z",
+            "content": "AFL legend Nick Riewoldt has delivered a touching tribute to MasterChef judge Jock Zonfrillo after the chef’s shock death at age 46.\r\nChannel 10 and his family made the shock announcement regarding Z… [+3496 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": null,
+            "title": "Big News For Harley Quinn on HBO Max - IGN The Fix: Entertainment - IGN",
+            "description": "<section class=\"video-page\"><p>Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wielding, pigtailed deviant named #H…",
+            "url": "https://www.ign.com/videos/big-news-for-harley-quinn-on-hbo-max-ign-the-fix-entertainment",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/08/31/efix-083122-blogroll-1661978432833.jpg?width=1280",
+            "publishedAt": "2022-09-01T17:52:24.9579624Z",
+            "content": "Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wieldin… [+239 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times https://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2022-08-30T16:37:43.8583104Z",
+            "content": "Featured Quizzes\r\nTake the challenge to learn about the life and career highlights of famed nonagenarian actress and comedian Betty White.\r\n Shares \r\nRead our synopsis and correctly identify a litera… [+32510 chars]"
+        },
+        {
+            "source": {
+                "id": "the-lad-bible",
+                "name": "The Lad Bible"
+            },
+            "author": null,
+            "title": "Breaking Entertainment News - Celebrity & Showbiz News | LADbible",
+            "description": "The latest entertainment news in the UK and worldwide on LADbible. We cover breaking celebrity news and showbiz stories. Check out our exclusives.",
+            "url": "https://www.theladbible.com/entertainment",
+            "urlToImage": null,
+            "publishedAt": "2020-06-18T14:07:50.1068606Z",
+            "content": "Netflix's new fantasy show, Cursed, will launch on 17 July"
+        }
+    ]
+}
